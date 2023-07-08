@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("File:🗒️_User_Manual/05._WIP.txt","05. WIP.txt");NDSummary.OnSummaryLoaded("File:🗒️_User_Manual/05._WIP.txt",[["Text File","TextFile"]],[["Sections","Section"]],[[2373,0,0,"WIP","WIP"]]);
