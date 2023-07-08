@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("min",["Constant"],[["MIN_MAX_SIZE_CHANGED",,[["ssGUI::Enums",,,,0,"File:◀️_ssGUI_API_▶️/Enums/EventType.hpp:ssGUI.Enums.MIN_MAX_SIZE_CHANGED","CClass:ssGUI.Enums:MIN_MAX_SIZE_CHANGED"]]],["MINUS",,[["ssGUI::Enums",,,,0,"File:◀️_ssGUI_API_▶️/Enums/SymbolKey.hpp:ssGUI.Enums.MINUS","CClass:ssGUI.Enums:MINUS"]]]]);

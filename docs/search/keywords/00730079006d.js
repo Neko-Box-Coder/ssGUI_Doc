@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sym",["Enumeration"],[["SymbolKey",,[["ssGUI::Enums",,,,0,"File:◀️_ssGUI_API_▶️/Enums/SymbolKey.hpp:ssGUI.Enums.SymbolKey","CClass:ssGUI.Enums:SymbolKey"]]]]);

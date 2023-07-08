@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fin",["Function"],[["FindChild",,[["ssGUI::Hierarchy",,,,0,"File:◀️_ssGUI_API_▶️/DataClasses/Hierarchy.hpp:ssGUI.Hierarchy.FindChild","CClass:ssGUI.Hierarchy:FindChild"]]]]);

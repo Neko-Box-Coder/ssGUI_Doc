@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tag",["Class"],[["Tags",,[["ssGUI",,,,0,"File:◀️_ssGUI_API_▶️/ssGUITags.hpp:ssGUI.Tags","CClass:ssGUI.Tags"]]]]);

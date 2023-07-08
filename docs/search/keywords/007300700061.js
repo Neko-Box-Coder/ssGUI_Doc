@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("spa",["Constant","Function"],[["SPACE",,[["ssGUI::Enums",,,,0,"File:◀️_ssGUI_API_▶️/Enums/SystemKey.hpp:ssGUI.Enums.SPACE","CClass:ssGUI.Enums:SPACE"]]],["SpawnMenu",,[["ssGUI::Menu",,,,1,"File:◀️_ssGUI_API_▶️/GUIObjectClasses/Menu.hpp:ssGUI.Menu.SpawnMenu","CClass:ssGUI.Menu:SpawnMenu"]]]]);

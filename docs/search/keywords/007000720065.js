@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pre",["Variable"],[["PreMultipliedAlpha",,[["ssGUI::ImageFormat",,,,0,"File:◀️_ssGUI_API_▶️/DataClasses/ImageFormat.hpp:ssGUI.ImageFormat.PreMultipliedAlpha","CClass:ssGUI.ImageFormat:PreMultipliedAlpha"]]]]);

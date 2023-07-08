@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("box",["Class"],[["BoxShadow",,[["ssGUI::Extensions",,,,0,"File:◀️_ssGUI_API_▶️/Extensions/BoxShadow.hpp:ssGUI.Extensions.BoxShadow","CClass:ssGUI.Extensions.BoxShadow"]]]]);

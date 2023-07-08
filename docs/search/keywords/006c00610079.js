@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("lay",["Class"],[["Layout",,[["ssGUI::Extensions",,,,0,"File:◀️_ssGUI_API_▶️/Extensions/Layout.hpp:ssGUI.Extensions.Layout","CClass:ssGUI.Extensions.Layout"]]]]);
